@@ -1,0 +1,15 @@
+#question_conatiner
+{
+	width:600px;
+	height:250px;
+	padding-left:100px;
+	//padding:150px 400px 200px 300px;
+	//font-size:25px;
+	//color:green;
+	margin-left:40px;
+	margin-top:100px;
+	border-radius: 10px;
+	//border-left: 100px;
+	border-color:orange;
+	border-style:dashed;
+}	
