@@ -5,7 +5,7 @@
 
 $servername = "localhost";
 $username = "root";
-$password = "";
+$password = "admin1234";
 $dbname = "quiz_master";
 
 session_start();
@@ -175,7 +175,7 @@ session_start();
 
 $server="localhost";
 $username="root";
-$password="";
+$password="admin1234";
 $database="quiz_master";
 
 $con=mysqli_connect($server,$username,$password,$database);
@@ -378,7 +378,7 @@ if($_SESSION['current_que']==1)
 $current_que_no=$_SESSION['current_que'];
 $server="localhost";
 $username="root";
-$password="";
+$password="admin1234";
 $database="quiz_master";
 
 

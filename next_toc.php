@@ -4,7 +4,7 @@ session_start();
 
 $server="localhost";
 $username="root";
-$password="";
+$password="admin1234";
 $database="quiz_master";
 $con=mysqli_connect($server,$username,$password,$database);
 

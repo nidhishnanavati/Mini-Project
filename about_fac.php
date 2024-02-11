@@ -2,9 +2,9 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "";
+$password = "admin1234";
 $dbname = "quiz_master";
-  session_start();
+session_start();
 require_once("class/dbo.class.php");
 
   

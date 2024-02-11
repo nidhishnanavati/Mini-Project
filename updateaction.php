@@ -7,7 +7,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "";
+$password = "admin1234";
 $dbname = "test2";
 
 //$uid=$_GET['aid'];

@@ -7,7 +7,7 @@ include("h2.php");
 session_start();
 $servername = "localhost";
 $username = "root";
-$password = "";
+$password = "admin1234";
 $dbname = "quiz_master";
 
 
