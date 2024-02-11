@@ -2,7 +2,7 @@
 
 $servername = "localhost";
 $username = "root";
-$password = "";
+$password = "admin1234";
 $dbname = "quiz_master";
 
 if(isset($_POST['submit'])){

@@ -5,7 +5,7 @@
 		private $host	= "localhost";
 		private	$user	= "root";
 		private $dbnm	= "quiz_master";
-		private $pass	= "";
+		private $pass	= "admin1234";
 		
 		//-- Do Not Edit Below This Line --------------------------------------
 

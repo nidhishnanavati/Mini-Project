@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "";
+$password = "admin1234";
 $dbname = "quiz_master";
 
 require_once("class/dbo.class.php");

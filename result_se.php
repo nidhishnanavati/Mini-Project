@@ -8,7 +8,7 @@ $st_time=$_SESSION['s_time'];
 $quiz_duration=strtotime($e_time)-strtotime($st_time) ;
 $server="localhost";
 $username="root";
-$password="";
+$password="admin1234";
 $database="quiz_master";
 $con=mysqli_connect($server,$username,$password,$database);
 
@@ -55,7 +55,7 @@ $re=mysqli_query($con,$query);
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "";
+$password = "admin1234";
 $dbname = "quiz_master";
   //session_start();
 require_once("class/dbo.class.php");
